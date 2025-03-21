@@ -3,3 +3,4 @@ description: Welcome to my journey of Cybersecurity with a fun twist.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+is_project_page: false
