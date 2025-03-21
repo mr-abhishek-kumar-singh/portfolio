@@ -9,7 +9,9 @@
 - Understand the working of the application before you test it
 - Look for places where developers would assume only legitimate requests
 - Change perspective, not targets
-# Old Notes
+
+# Notes
+
 ### 3 types
 - VDP(Vulnerability Disclosure Program)
 - Public Bug Bounty
@@ -20,6 +22,7 @@
 - Look for IDORs on these features
 
 ### Dorking and Reading .js Files
+
 - #### Dorking
 	- Using public search engines to find public data about your target. They do the spidering for you
 	- **site:example.com inurl:&** - Finding parameters, scrape and try these on every endpoint you discover
@@ -27,6 +30,7 @@
 	- **site:example.com inurl:admin(login, register, signup, unsubscribe, redirect, returnUrl) Get creative! The possibilities are endless. Ask and you shall receive** - Finding functionality to play with
 	- On Shodan, simply search for their IP range
 ### Tools
+
 - BurpSuite
 - Extract .js files on any domain
 	- GetJS
@@ -59,6 +63,7 @@
 	- parameth
 
 ### Finding VDP/Bug bounty Programs
+
 - #### Google Dorking
 ```Queries
 inurl:responsible disclosure
@@ -85,9 +90,11 @@ white hat program
 
 inurl:responsible-disclosure-policy
 ```
+
 - #### Security.txt
 	- It really is as simple as: When looking for a companies security contact make sure to check for `https://www.example.com/.well-known/security.txt`
 	- You can even automate scanning for this file to discover programs.
+
 - #### Bug Bounty Platforms
 	- hackerone.com
 	- bugcrowd.com
@@ -113,6 +120,7 @@ inurl:responsible-disclosure-policy
 	- **gowitness** - Clicks screenshots of the domains mentioned in a file
 
 ## Authentication and Authorization
+
 ### Authentication
 - **Bruteforce attacks**
 - **Attacking MFA**
