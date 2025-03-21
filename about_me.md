@@ -36,7 +36,8 @@ I am a cybersecurity professional and automation engineer with a strong backgrou
 - Security automation and AI-driven security solutions
 - Open-source contributions in cybersecurity and automation
 - Financial investment strategies and wealth management
-- Gaming (Valorant) and content creation (montages)
+- Gaming and content creation
+- Book reading
 
 ## Contact
 - **LinkedIn**: [https://www.linkedin.com/in/mr-abhishek-kumar-singh](#)
