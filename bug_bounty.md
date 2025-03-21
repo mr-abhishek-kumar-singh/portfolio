@@ -65,7 +65,8 @@
 ### Finding VDP/Bug bounty Programs
 
 - #### Google Dorking
-```Queries
+
+```queries
 inurl:responsible disclosure
 
 "report security vulnerability"
