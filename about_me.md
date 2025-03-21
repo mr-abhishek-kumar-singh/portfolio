@@ -29,7 +29,7 @@ I am a cybersecurity professional and automation engineer with a strong backgrou
   - Mobile Application Penetration Tester (MAPT)
   - Practical Bug Bounty Hunter
 - **Networking & Cloud Security**:
-  - Google Cloud Certification - Cloud DevOps Engineer *(In Progress)*
+  - Google Cloud Certification - Cloud DevOps Engineer
 
 ## Interests
 - Ethical hacking and red teaming methodologies
