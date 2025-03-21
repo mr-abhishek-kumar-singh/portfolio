@@ -22,14 +22,22 @@ I am a cybersecurity professional and automation engineer with a strong backgrou
   - OSCP *(Studying)*
 - **TCM Security**:
   - Practical Ethical Hacking (PEH)
+  - Mobile Application Penetration Tester (MAPT)
+  - Practical Bug Bounty Hunter
   - Linux 100 & 101
   - Python 101 & 201
   - Programming 100
   - Soft Skills for Cyber Security
-  - Mobile Application Penetration Tester (MAPT)
-  - Practical Bug Bounty Hunter
 - **Networking & Cloud Security**:
   - Google Cloud Certification - Cloud DevOps Engineer
+ 
+## Projects
+- [Recon-Sub](https://github.com/mr-abhishek-kumar-singh/recon-sub): Automated subdomain enumeration tool for reconnaissance.
+- [SSL Certificate Checker](https://github.com/mr-abhishek-kumar-singh/ssl-certificate-checker): A Python tool to check SSL certificate validity and expiration.
+- [Scapy Port Enum](https://github.com/mr-abhishek-kumar-singh/scapy-port-enum): A network enumeration tool using Scapy for scanning open ports.
+- [CSRF Token Bypass Script](https://github.com/mr-abhishek-kumar-singh/csrf-token-bypass-script): A Python script to test CSRF token vulnerabilities in web applications.
+- [Web Login BF](https://github.com/mr-abhishek-kumar-singh/web-login-bf): A brute force tool to test login authentication security on web applications.
+- [SHA256 Crack](https://github.com/mr-abhishek-kumar-singh/sha256-crack): A Python-based SHA256 hash cracker for security testing.
 
 ## Interests
 - Ethical hacking and red teaming methodologies
