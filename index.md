@@ -40,8 +40,8 @@ I am a cybersecurity professional and automation engineer with a strong backgrou
 - Book reading
 
 ## Contact
-- **LinkedIn**: [https://www.linkedin.com/in/mr-abhishek-kumar-singh](#)
-- **GitHub**: [https://github.com/mr-abhishek-kumar-singh](#)
-- **Email**: [abhishekkrsingh.infosec@gmail.com](#)
-- **Website/Blog**: [https://mr-abhishek-kumar-singh.github.io/portfolio/](#)
+- [LinkedIn](https://www.linkedin.com/in/mr-abhishek-kumar-singh)
+- [GitHub](https://github.com/mr-abhishek-kumar-singh)
+- [Email](abhishekkrsingh.infosec@gmail.com)
+- [Website](https://mr-abhishek-kumar-singh.github.io/portfolio/)
 
