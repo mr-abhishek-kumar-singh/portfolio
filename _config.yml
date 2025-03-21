@@ -4,8 +4,4 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
 github:
-  is_project_page: false
-  repository_name: "My Resume"
-  repository_button_text: "My Resume"
-  button_text: "My Resume"
-  repository_url: https://drive.google.com/file/d/13TYP1Gwe4VLOZQI_qLolqr-7WVZGP9D-/view?usp=sharing
+  repository_url: https://github.com/mr-abhishek-kumar-singh/
