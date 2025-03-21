@@ -18,7 +18,7 @@ I am a cybersecurity professional and automation engineer with a strong backgrou
 
 ## Certifications
 - **Offensive Security**:
-  - eJPT (INE)
+  - eJPTv2 by INE Security
   - OSCP *(Studying)*
 - **TCM Security**:
   - Practical Ethical Hacking (PEH)
