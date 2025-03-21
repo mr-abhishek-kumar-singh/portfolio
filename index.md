@@ -13,7 +13,7 @@ I am a cybersecurity professional and automation engineer with a strong backgrou
 ## Accomplishments
 - Successfully performed penetration testing on various services at **SRM Delhi**, **Glida, Radius, and Ez-Swype**.
 - Developed security assessment methodologies for organizations to enhance their security posture.
-- Currently building a **security assessment tool** for sales teams to identify website vulnerabilities.
+- Currently building a **security assessment tool** for organizations to identify website vulnerabilities.
 - Completed multiple security certifications to solidify expertise in ethical hacking and automation.
 
 ## Certifications
