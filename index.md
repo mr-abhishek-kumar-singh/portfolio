@@ -11,7 +11,7 @@ I am a cybersecurity professional and automation engineer with a strong backgrou
 - **Tools & Technologies**: Scapy, Burp Suite, Metasploit, Nmap, BloodHound, Wireshark
 
 ## Accomplishments
-- Successfully performed penetration testing on various services during internships at **Glida, Radius, and Ez-Swype**.
+- Successfully performed penetration testing on various services at **SRM Delhi**, **Glida, Radius, and Ez-Swype**.
 - Developed security assessment methodologies for organizations to enhance their security posture.
 - Currently building a **security assessment tool** for sales teams to identify website vulnerabilities.
 - Completed multiple security certifications to solidify expertise in ethical hacking and automation.
