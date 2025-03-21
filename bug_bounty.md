@@ -431,7 +431,7 @@ chmod +x recon-new.sh
 - ## XSS Reflected
 	- Use the following script for XSS `"><img src=x onerror=alert(document.domain)>`
 	- regionConfirm parameter XSS
-	- [https://partners.uber.com/signup/global/?place_id=ChIJPaCKh-tmA4wR7JEkNDrNDSU&location=Carolina](https://partners.uber.com/signup/global/?place_id=ChIJPaCKh-tmA4wR7JEkNDrNDSU&location=Carolina)<script>alert(1)</script>a%2C+Carolina"%2C+Puerto+Rico&lat=18.3807819&lng=-65.95738719999997
+	- `https://partners.uber.com/signup/global/?place_id=ChIJPaCKh-tmA4wR7JEkNDrNDSU&location=Carolina)<script>alert(1)</script>a%2C+Carolina"%2C+Puerto+Rico&lat=18.3807819&lng=-65.95738719999997`
 	- 
 - ## CSRF
 	- https://hackerone.com/reports/547
