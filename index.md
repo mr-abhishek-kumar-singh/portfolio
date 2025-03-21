@@ -38,6 +38,7 @@ I am a cybersecurity professional and automation engineer with a strong backgrou
 - [CSRF Token Bypass Script](https://github.com/mr-abhishek-kumar-singh/csrf-token-bypass-script): A Python script to test CSRF token vulnerabilities in web applications.
 - [Web Login BF](https://github.com/mr-abhishek-kumar-singh/web-login-bf): A brute force tool to test login authentication security on web applications.
 - [SHA256 Crack](https://github.com/mr-abhishek-kumar-singh/sha256-crack): A Python-based SHA256 hash cracker for security testing.
+- MantraCrawler: _Coming soon..._
 
 ## Interests
 - Ethical hacking and red teaming methodologies
