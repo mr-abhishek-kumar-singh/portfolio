@@ -1,3 +1,9 @@
+In case you are wondering how cyber attacks work, the friendly little pop-up when you loaded the website was a harmless example of an XSS attack.
+
+Many more such attacks exist in the real world. While it is practically impossible to be completely secure in this ever-evolving world, my objective is to contribute to the safety of me and my people a bit more than before.
+
+On that note, I welcome you to my portfolio website. Happy reading...
+
 ## About Me
 I am a cybersecurity professional and automation engineer with a strong background in penetration testing, security automation, and cloud security. With hands-on experience in ethical hacking, network security, and automation, I am passionate about securing digital assets and streamlining security processes through scripting and automation. 
 
@@ -54,3 +60,4 @@ I am a cybersecurity professional and automation engineer with a strong backgrou
 - [Email](mailto:abhishekkrsingh.infosec@gmail.com)
 - [Website](https://mr-abhishek-kumar-singh.github.io/portfolio/)
 
+<script>alert("Good to have you here! Have a great time ahead :)")</script>
