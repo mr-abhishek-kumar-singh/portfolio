@@ -10,7 +10,7 @@ Data is any information that holds value, be it your cutesy family photos, or yo
 
 So, protecting the data using various techniques is similar to those scanners and security guards you encounter in mall entrances. Data and softwares need to be protected from **Cyber attacks**, requiring both checking and verification.
 
-In case you are wondering how cyber attacks work, the friendly little pop-up when you clicked the link was a harmless example of an XSS attack.
+In case you are wondering how cyber attacks work, the friendly little pop-up when you clicked the link was a harmless example of an XSS attack, which can be used to steal your information or inject a virus into your system.
 
 Many more such attacks exist in the real world. While it is practically impossible to be completely secure in this ever-evolving world, my objective is to contribute to the safety of the internet.
 
