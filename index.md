@@ -1,6 +1,7 @@
 ## About Me
 I am a cybersecurity professional and automation engineer with a strong background in penetration testing, security automation, and cloud security. With hands-on experience in ethical hacking, network security, and automation, I am passionate about securing digital assets and streamlining security processes through scripting and automation. 
 
+
 ## A bit about the Hacker's Realm
 
 > **Fun fact**: The word "hacker" was first used in 1970s by members of the MIT to describe attackers who would illegally bypass security measures gaining access to data and software.
@@ -19,6 +20,7 @@ Many more such attacks exist in the real world. While it is practically impossib
 
 On that note, I welcome you to my portfolio website. Happy reading...
 
+
 ## Skills
 - **Penetration Testing**: Web applications, APIs, Mobile apps, Network infrastructure
 - **Security Automation**: Custom security tools, Python scripting, Automation frameworks
@@ -28,11 +30,13 @@ On that note, I welcome you to my portfolio website. Happy reading...
 - **Operating Systems**: Linux (RedHat, Debian-based), Windows security configurations
 - **Tools & Technologies**: Scapy, Burp Suite, Metasploit, Nmap, BloodHound, Wireshark, GoBuster, SMBMap, WPScan
 
+
 ## Accomplishments
 - Successfully performed penetration testing on various services at **SRM Delhi**, **Glida, Radius, and Ez-Swype**.
 - Developed security assessment methodologies for organizations to enhance their security posture.
 - Currently building a **security assessment tool** for organizations to identify website vulnerabilities.
 - Completed multiple security certifications to solidify expertise in ethical hacking and automation.
+
 
 ## Certifications
 While certifications, for some people, are just a piece of paper that proves that you can type some stuff into the computer and click some buttons, but they also play a crucial role in determining what and when to click. So here are some of my button clicks that taught me highly valuable information regarding how to hack various things:
@@ -50,6 +54,7 @@ While certifications, for some people, are just a piece of paper that proves tha
 - **Networking & Cloud Security**:
   - Google Cloud Certification - Cloud DevOps Engineer
  
+
 ## Projects
 - [Recon-Sub](https://github.com/mr-abhishek-kumar-singh/recon-sub): Automated subdomain enumeration tool for reconnaissance.
 - [SSL Certificate Checker](https://github.com/mr-abhishek-kumar-singh/ssl-certificate-checker): A Python tool to check SSL certificate validity and expiration.
@@ -59,6 +64,7 @@ While certifications, for some people, are just a piece of paper that proves tha
 - [SHA256 Crack](https://github.com/mr-abhishek-kumar-singh/sha256-crack): A Python-based SHA256 hash cracker for security testing.
 - MantraCrawler: _Coming soon..._
 
+
 ## Interests
 - Ethical hacking and red teaming methodologies
 - Security automation and AI-driven security solutions
@@ -66,6 +72,7 @@ While certifications, for some people, are just a piece of paper that proves tha
 - Financial investment strategies and wealth management
 - Gaming and content creation
 - Book reading
+
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/mr-abhishek-kumar-singh)
