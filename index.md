@@ -2,9 +2,9 @@
 
 > **Fun fact**: The word hacker was first used in 1970s by members of the MIT to describe attackers who would illegally bypass security measures gaining access to data and software.
 
-The question arises - What exactly is data and softwares and why do we need to protect them?
-
 Hackers are everywhere! In today's world, we all use "hacks" or "tricks" to get the job done. Be it using your brain, or leveraging a tool to find clever ways to get something done. Hacking has been a part of human lives way before the term was coined.
+
+The question arises - What exactly is data and softwares and why do we need to protect them?
 
 Data is any information that holds value, be it your cutesy family photos, or your documents you store on Cloud Drives, data exists everywhere. Before internet was even a thing, there were printed documents that needed to be secured to prevent unwanted access or tampering. On the other hand, softwares are a set of instructions, data, or programs that tell a computer what to do and how to do it, enabling it to perform specific tasks and interact with users. Both data and softwares go hand-in-hand to perform the so-called information exchange. 
 
