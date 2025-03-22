@@ -12,7 +12,7 @@ So, protecting the data using various techniques is similar to those scanners an
 
 In case you are wondering how cyber attacks work, the friendly little pop-up when you clicked the link was a harmless example of an XSS attack.
 
-Many more such attacks exist in the real world. While it is practically impossible to be completely secure in this ever-evolving world, my objective is to contribute to the safety of me and my people a bit more than before.
+Many more such attacks exist in the real world. While it is practically impossible to be completely secure in this ever-evolving world, my objective is to contribute to the safety of the internet.
 
 On that note, I welcome you to my portfolio website. Happy reading...
 
