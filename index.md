@@ -1,4 +1,4 @@
-# A bit about the Hacker's Realm
+## A bit about the Hacker's Realm
 
 > **Fun fact**: The word "hacker" was first used in 1970s by members of the MIT to describe attackers who would illegally bypass security measures gaining access to data and software.
 
