@@ -1,6 +1,6 @@
 # A bit about the Hacker's Realm
 
-> **Fun fact**: The word hacker was first used in 1970s by members of the MIT to describe attackers who would illegally bypass security measures gaining access to data and software.
+> **Fun fact**: The word "hacker" was first used in 1970s by members of the MIT to describe attackers who would illegally bypass security measures gaining access to data and software.
 
 Hackers are everywhere! In today's world, we all use "hacks" or "tricks" to get the job done. Be it using your brain, or leveraging a tool to find clever ways to get something done. Hacking has been a part of human lives way before the term was coined.
 
