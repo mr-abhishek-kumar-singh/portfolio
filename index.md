@@ -8,7 +8,7 @@ The question arises - What exactly is data and softwares and why do we need to p
 
 Data is any information that holds value, be it your cutesy family photos, or your documents you store on Cloud Drives, data exists everywhere. Before internet was even a thing, there were printed documents that needed to be secured to prevent unwanted access or tampering. On the other hand, softwares are a set of instructions, data, or programs that tell a computer what to do and how to do it, enabling it to perform specific tasks and interact with users. Both data and softwares go hand-in-hand to perform the so-called information exchange. 
 
-So, protecting the data using various techniques is similar to those scanners and security guards you encounter in mall entrances. Data and softwares needs to be protected from **Cyber attacks**.
+So, protecting the data using various techniques is similar to those scanners and security guards you encounter in mall entrances. Data and softwares need to be protected from **Cyber attacks**, requiring both checking and verification.
 
 In case you are wondering how cyber attacks work, the friendly little pop-up when you clicked the link was a harmless example of an XSS attack.
 
