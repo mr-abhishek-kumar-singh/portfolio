@@ -1,4 +1,4 @@
-In case you are wondering how cyber attacks work, the friendly little pop-up when you loaded the website was a harmless example of an XSS attack.
+In case you are wondering how cyber attacks work, the friendly little pop-up when you clicked the link is a harmless example of an XSS attack.
 
 Many more such attacks exist in the real world. While it is practically impossible to be completely secure in this ever-evolving world, my objective is to contribute to the safety of me and my people a bit more than before.
 
