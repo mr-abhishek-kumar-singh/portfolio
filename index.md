@@ -1,3 +1,15 @@
+# A bit about the Hacker's Realm
+
+> **Fun fact**: The word hacker was first used in 1970s by members of the MIT to describe attackers who would illegally bypass security measures gaining access to data and software.
+
+The question arises - What exactly is data and softwares and why do we need to protect them?
+
+Hackers are everywhere! In today's world, we all use "hacks" or "tricks" to get the job done. Be it using your brain, or leveraging a tool to find clever ways to get something done. Hacking has been a part of human lives way before the term was coined.
+
+Data is any information that holds value, be it your cutesy family photos, or your documents you store on Cloud Drives, data exists everywhere. Before internet was even a thing, there were printed documents that needed to be secured to prevent unwanted access or tampering. On the other hand, softwares are a set of instructions, data, or programs that tell a computer what to do and how to do it, enabling it to perform specific tasks and interact with users. Both data and softwares go hand-in-hand to perform the so-called information exchange. 
+
+So, protecting the data using various techniques is similar to those scanners and security guards you encounter in mall entrances. Data and softwares needs to be protected from **Cyber attacks**.
+
 In case you are wondering how cyber attacks work, the friendly little pop-up when you clicked the link was a harmless example of an XSS attack.
 
 Many more such attacks exist in the real world. While it is practically impossible to be completely secure in this ever-evolving world, my objective is to contribute to the safety of me and my people a bit more than before.
@@ -7,14 +19,16 @@ On that note, I welcome you to my portfolio website. Happy reading...
 ## About Me
 I am a cybersecurity professional and automation engineer with a strong background in penetration testing, security automation, and cloud security. With hands-on experience in ethical hacking, network security, and automation, I am passionate about securing digital assets and streamlining security processes through scripting and automation. 
 
+Fun fact: The word hacker was first used by members of the MIT to describe attackers who would illegally bypass security measures gaining access to data and software
+
 ## Skills
 - **Penetration Testing**: Web applications, APIs, Mobile apps, Network infrastructure
-- **Security Automation**: Custom security tools, Python scripting, automation frameworks
+- **Security Automation**: Custom security tools, Python scripting, Automation frameworks
 - **Cloud Security**: Google Cloud security, DevOps security practices
-- **Networking**: CCNA concepts, network analysis, firewall configurations
+- **Networking**: CCNA concepts, Network analysis, Firewall configurations
 - **Programming**: Python, Bash scripting, PowerShell
 - **Operating Systems**: Linux (RedHat, Debian-based), Windows security configurations
-- **Tools & Technologies**: Scapy, Burp Suite, Metasploit, Nmap, BloodHound, Wireshark
+- **Tools & Technologies**: Scapy, Burp Suite, Metasploit, Nmap, BloodHound, Wireshark, GoBuster, SMBMap, WPScan
 
 ## Accomplishments
 - Successfully performed penetration testing on various services at **SRM Delhi**, **Glida, Radius, and Ez-Swype**.
@@ -23,6 +37,7 @@ I am a cybersecurity professional and automation engineer with a strong backgrou
 - Completed multiple security certifications to solidify expertise in ethical hacking and automation.
 
 ## Certifications
+While certifications, for some people, are just a piece of paper that proves that you can type some stuff into the computer and click some buttons, but they also play a crucial role in determining what and when to click. So here are some of my button clicks that taught me highly valuable information regarding how to hack various things:
 - **Offensive Security**:
   - eJPTv2 by INE Security
   - OSCP *(Soon...)*
