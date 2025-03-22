@@ -1,3 +1,6 @@
+## About Me
+I am a cybersecurity professional and automation engineer with a strong background in penetration testing, security automation, and cloud security. With hands-on experience in ethical hacking, network security, and automation, I am passionate about securing digital assets and streamlining security processes through scripting and automation. 
+
 ## A bit about the Hacker's Realm
 
 > **Fun fact**: The word "hacker" was first used in 1970s by members of the MIT to describe attackers who would illegally bypass security measures gaining access to data and software.
@@ -15,11 +18,6 @@ In case you are wondering how cyber attacks work, the friendly little pop-up whe
 Many more such attacks exist in the real world. While it is practically impossible to be completely secure in this ever-evolving world, my objective is to contribute to the safety of the internet.
 
 On that note, I welcome you to my portfolio website. Happy reading...
-
-## About Me
-I am a cybersecurity professional and automation engineer with a strong background in penetration testing, security automation, and cloud security. With hands-on experience in ethical hacking, network security, and automation, I am passionate about securing digital assets and streamlining security processes through scripting and automation. 
-
-Fun fact: The word hacker was first used by members of the MIT to describe attackers who would illegally bypass security measures gaining access to data and software
 
 ## Skills
 - **Penetration Testing**: Web applications, APIs, Mobile apps, Network infrastructure
