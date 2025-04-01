@@ -41,6 +41,7 @@ On that note, I welcome you to my portfolio website. Happy reading...
 ## Certifications
 While certifications, for some people, are just a piece of paper that proves that you can type some stuff into the computer and click some buttons, but they also play a crucial role in determining what and when to click. So here are some of my button clicks that taught me highly valuable information regarding how to hack various things:
 - **Offensive Security**:
+  - CEHv12
   - eJPTv2 by INE Security
   - OSCP *(Soon...)*
 - **TCM Security**:
