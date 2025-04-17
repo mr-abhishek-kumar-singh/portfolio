@@ -48,6 +48,7 @@ While certifications, for some people, are just a piece of paper that proves tha
   - Practical Ethical Hacking (PEH)
   - Mobile Application Penetration Tester (MAPT)
   - Practical Bug Bounty Hunter
+  - Programming with AI - Mini Course
   - Linux 100 & 101
   - Python 101 & 201
   - Programming 100
