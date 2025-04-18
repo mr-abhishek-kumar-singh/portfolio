@@ -41,10 +41,11 @@ On that note, I welcome you to my portfolio website. Happy reading...
 ## Certifications
 While certifications, for some people, are just a piece of paper that proves that you can type some stuff into the computer and click some buttons, but they also play a crucial role in determining what and when to click. So here are some of my button clicks that taught me highly valuable information regarding how to hack various things:
 - **Offensive Security**:
-  - CEHv12
+  - CEHv12 & CEH Practical
+  - Certified in Cybersecurity by ISC2
   - eJPTv2 by INE Security
   - OSCP *(Soon...)*
-- **TCM Security**:
+- **Scripting & Application Security**:
   - Practical Ethical Hacking (PEH)
   - Mobile Application Penetration Tester (MAPT)
   - Practical Bug Bounty Hunter
@@ -52,10 +53,11 @@ While certifications, for some people, are just a piece of paper that proves tha
   - Linux 100 & 101
   - Python 101 & 201
   - Programming 100
-  - Soft Skills for Cyber Security
-- **Networking & Cloud Security**:
+- **Networking and Cloud Security**:
+  - Google Cybersecurity Certification
   - Google Cloud Certification - Cloud DevOps Engineer
- 
+- **Soft Skills for Job Market**
+  - Soft Skills for Cyber Security Job Market  
 
 ## Projects
 - [Recon-Sub](https://github.com/mr-abhishek-kumar-singh/recon-sub): Automated subdomain enumeration tool for reconnaissance.
