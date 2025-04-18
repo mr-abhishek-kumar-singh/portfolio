@@ -1,7 +1,6 @@
 ## About Me
 I am a cybersecurity professional and automation engineer with a strong background in penetration testing, security automation, and cloud security. With hands-on experience in ethical hacking, network security, and automation, I am passionate about securing digital assets and streamlining security processes through scripting and automation.  
-  
-  
+---
 ## Skills
 - **Penetration Testing**: Web applications, APIs, Mobile apps, Network infrastructure
 - **Security Automation**: Custom security tools, Python scripting, Automation frameworks
@@ -10,15 +9,13 @@ I am a cybersecurity professional and automation engineer with a strong backgrou
 - **Programming**: Python, Bash scripting, PowerShell
 - **Operating Systems**: Linux (RedHat, Debian-based), Windows security configurations
 - **Tools & Technologies**: Scapy, Burp Suite, Metasploit, Nmap, BloodHound, Wireshark, GoBuster, SMBMap, WPScan  
-
-  
+---
 ## Accomplishments
 - Successfully performed penetration testing on various services at **SRM Delhi**, **Glida, Radius, and Ez-Swype**.
 - Developed security assessment methodologies for organizations to enhance their security posture.
 - Currently building a **security assessment tool** for organizations to identify website vulnerabilities.
 - Completed multiple security certifications to solidify expertise in ethical hacking and automation.  
-  
-  
+---
 ## Certifications
 While certifications, for some people, are just a piece of paper that proves that you can type some stuff into the computer and click some buttons, but they also play a crucial role in determining what and when to click. So here are some of my button clicks that taught me highly valuable information regarding how to hack various things:  
 - ### **Offensive Security**:
@@ -38,9 +35,8 @@ While certifications, for some people, are just a piece of paper that proves tha
   - Google Cybersecurity Certification
   - Google Cloud Certification - Cloud DevOps Engineer  
 - ### **Soft Skills for Job Market**
-  - Soft Skills for Cyber Security Job Market   
-
-  
+  - Soft Skills for Cyber Security Job Market
+---
 ## Projects
 - [Recon-Sub](https://github.com/mr-abhishek-kumar-singh/recon-sub): Automated subdomain enumeration tool for reconnaissance.
 - [SSL Certificate Checker](https://github.com/mr-abhishek-kumar-singh/ssl-certificate-checker): A Python tool to check SSL certificate validity and expiration.
@@ -49,8 +45,7 @@ While certifications, for some people, are just a piece of paper that proves tha
 - [Web Login BF](https://github.com/mr-abhishek-kumar-singh/web-login-bf): A brute force tool to test login authentication security on web applications.
 - [SHA256 Crack](https://github.com/mr-abhishek-kumar-singh/sha256-crack): A Python-based SHA256 hash cracker for security testing.
 - MantraCrawler: _Coming soon..._  
-  
-  
+---
 ## Interests
 - Ethical hacking and red teaming methodologies
 - Security automation and AI-driven security solutions
@@ -58,15 +53,13 @@ While certifications, for some people, are just a piece of paper that proves tha
 - Financial investment strategies and wealth management
 - Gaming and content creation
 - Book reading  
-  
-  
+---
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/mr-abhishek-kumar-singh)
 - [GitHub](https://github.com/mr-abhishek-kumar-singh)
 - [Email](mailto:abhishekkrsingh.infosec@gmail.com)
 - [Website](https://mr-abhishek-kumar-singh.github.io/portfolio/)
-  
-  
+---
 ## A bit about the Hacker's Realm
 
 > **Fun fact**: The word "hacker" was first used in 1970s by members of the MIT to describe attackers who would illegally bypass security measures gaining access to data and software.
@@ -84,7 +77,7 @@ In case you are wondering how cyber attacks work, the screen when you clicked th
 Many more such attacks exist in the real world. While it is practically impossible to be completely secure in this ever-evolving world, my objective is to contribute to the safety of the internet.
   
 On that note, I thank you for visitng my portfolio. Happy hacking!
-  
+---
 <style>
   * {
     margin: 0;
