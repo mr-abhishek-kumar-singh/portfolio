@@ -89,22 +89,20 @@ On that note, I thank you for visitng my portfolio. Happy hacking!
 fetch("https://ipapi.co/json/")
   .then(response => response.json())
   .then(data => {
-    const browser = navigator.userAgent;
-    const city = data.city;
-    const region = data.region;
-    const country = data.country_name;
+    const browser = navigator.userAgent.split(") ")[0] + ")";
+    const location = `${data.city}, ${data.region}, ${data.country_name}`;
     const ip = data.ip;
 
-    const msg = `👁️ I’ve been expecting you...
-    
-You're browsing from ${city}, ${region}, ${country}.
-Your IP is ${ip}.
-And you're using: ${browser}.
+    const msg = `
+[+] Profiling complete.
 
-Don't worry... I'm just watching 👀`;
+[!] Identity matched:
+- Origin: ${location}
+- IP fingerprint: ${ip}
+- Device: ${browser}
 
-    setTimeout(() => {
-      alert(msg);
-    }, 3000);
+[!] Trace route confirmed.
+Welcome, I've been expecting you...
+`;
   });
 </script>
