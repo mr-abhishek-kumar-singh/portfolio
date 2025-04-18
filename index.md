@@ -69,7 +69,6 @@ While certifications, for some people, are just a piece of paper that proves tha
 
 - ### **Offensive Security**:
   - CEHv12 & CEH Practical
-  - Certified in Cybersecurity by ISC2
   - eJPTv2 by INE Security
   - OSCP *(Soon...)*  
 
