@@ -85,6 +85,29 @@ Many more such attacks exist in the real world. While it is practically impossib
 On that note, I thank you for visitng my portfolio. Happy hacking!
 
 
+<style>
+  #matrix-terminal {
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    max-width: 700px;
+    background-color: #000;
+    color: #00ff00;
+    font-family: 'Courier New', monospace;
+    font-size: 1rem;
+    border: 2px solid #00ff00;
+    border-radius: 10px;
+    padding: 20px;
+    z-index: 9999;
+    box-shadow: 0 0 20px #00ff00;
+    white-space: pre-line;
+  }
+</style>
+
+<div id="matrix-terminal" style="display: none;"></div>
+
 <script>
 fetch("https://ipapi.co/json/")
   .then(response => response.json())
@@ -93,15 +116,31 @@ fetch("https://ipapi.co/json/")
     const location = `${data.city}, ${data.region}, ${data.country_name}`;
     const ip = data.ip;
 
-    const msg = `
-[+] Profiling complete.
+    const lines = [
+      "[+] Profiling complete.",
+      "[!] Identity matched:",
+      `    - Origin: ${location}`,
+      `    - IP fingerprint: ${ip}`,
+      `    - Device: ${browser}`,
+      "",
+      "[!] Trace route confirmed.",
+      "Welcome...",
+      "I've been expecting you."
+    ];
 
-[!] Identity matched:
-- Origin: ${location}
-- IP fingerprint: ${ip}
-- Device: ${browser}
+    const terminal = document.getElementById("matrix-terminal");
+    terminal.style.display = "block";
 
-[!] Trace route confirmed.
-Welcome, I've been expecting you...
-`;
+    let index = 0;
+
+    function typeLine() {
+      if (index < lines.length) {
+        terminal.innerHTML += lines[index] + "\n";
+        index++;
+        setTimeout(typeLine, 800); // Delay between lines
+      }
+    }
+
+    setTimeout(typeLine, 1000); // Initial delay before typing begins
+  });
 </script>
