@@ -104,5 +104,4 @@ fetch("https://ipapi.co/json/")
 [!] Trace route confirmed.
 Welcome, I've been expecting you...
 `;
-  });
 </script>
