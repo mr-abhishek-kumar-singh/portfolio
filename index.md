@@ -1,5 +1,5 @@
 ## About Me
-I am a cybersecurity professional and automation engineer with a strong background in penetration testing, security automation, and cloud security. With hands-on experience in ethical hacking, network security, and automation, I am passionate about securing digital assets and streamlining security processes through scripting and automation.  
+> I am a cybersecurity professional and automation engineer with a strong background in penetration testing, security automation, and cloud security. With hands-on experience in ethical hacking, network security, and automation, I am passionate about securing digital assets and streamlining security processes through scripting and automation.  
 ---
 ## Skills
 - **Penetration Testing**: Web applications, APIs, Mobile apps, Network infrastructure
