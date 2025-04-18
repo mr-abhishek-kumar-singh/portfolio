@@ -133,12 +133,12 @@ fetch("https://ipapi.co/json/")
 
     const lines = [
       "[+] Profiling complete.",
-      "[!] Identity matched:",
+      "[!] Confirming Identity:",
       `    - Origin: ${location}`,
       `    - IP fingerprint: ${ip}`,
       `    - Device: ${browser}`,
       "",
-      "[!] Trace route confirmed.",
+      "[!] Identity confirmed.",
       "About time you arrived!!",
       "I've been expecting you."
     ];
