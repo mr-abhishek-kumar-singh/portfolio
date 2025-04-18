@@ -85,4 +85,26 @@ Many more such attacks exist in the real world. While it is practically impossib
 On that note, I thank you for visitng my portfolio. Happy hacking!
 
 
-<script>alert("Good to have you here! Have a great time ahead :)")</script>
+<script>
+fetch("https://ipapi.co/json/")
+  .then(response => response.json())
+  .then(data => {
+    const browser = navigator.userAgent;
+    const city = data.city;
+    const region = data.region;
+    const country = data.country_name;
+    const ip = data.ip;
+
+    const msg = `👁️ I’ve been expecting you...
+    
+You're browsing from ${city}, ${region}, ${country}.
+Your IP is ${ip}.
+And you're using: ${browser}.
+
+Don't worry... I'm just watching 👀`;
+
+    setTimeout(() => {
+      alert(msg);
+    }, 3000);
+  });
+</script>
