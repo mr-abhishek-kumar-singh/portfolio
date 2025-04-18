@@ -102,7 +102,9 @@ On that note, I thank you for visitng my portfolio. Happy hacking!
     padding: 20px;
     z-index: 9999;
     box-shadow: 0 0 20px #00ff00;
-    white-space: pre-line;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    transition: opacity 2s ease;
   }
 </style>
 
@@ -117,30 +119,37 @@ fetch("https://ipapi.co/json/")
     const ip = data.ip;
 
     const lines = [
-      "[+] Profiling complete.",
-      "[!] Identity matched:",
-      `    - Origin: ${location}`,
-      `    - IP fingerprint: ${ip}`,
-      `    - Device: ${browser}`,
-      "",
-      "[!] Trace route confirmed.",
-      "Welcome...",
+      "[+] Profiling complete.\n",
+      "[!] Identity matched:\n",
+      `    - Origin: ${location}\n`,
+      `    - IP fingerprint: ${ip}\n`,
+      `    - Device: ${browser}\n`,
+      "\n",
+      "[!] Trace route confirmed.\n",
+      "Welcome...\n",
       "I've been expecting you."
     ];
 
     const terminal = document.getElementById("matrix-terminal");
     terminal.style.display = "block";
 
-    let index = 0;
+    const fullText = lines.join('');
+    let i = 0;
 
-    function typeLine() {
-      if (index < lines.length) {
-        terminal.innerHTML += lines[index] + "\n";
-        index++;
-        setTimeout(typeLine, 800); // Delay between lines
+    function typeWriter() {
+      if (i < fullText.length) {
+        terminal.innerHTML += fullText.charAt(i);
+        i++;
+        setTimeout(typeWriter, 25); // typing speed
+      } else {
+        // Fade out after 5 seconds
+        setTimeout(() => {
+          terminal.style.opacity = 0;
+        }, 5000);
       }
     }
 
-    setTimeout(typeLine, 1000); // Initial delay before typing begins
+    setTimeout(typeWriter, 1000); // delay before typing starts
   });
 </script>
+
