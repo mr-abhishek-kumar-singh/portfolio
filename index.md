@@ -132,15 +132,13 @@ fetch("https://ipapi.co/json/")
     const ip = data.ip;
 
     const lines = [
-      "[+] Profiling complete.",
       "[!] Confirming Identity:",
       `    - Origin: ${location}`,
       `    - IP fingerprint: ${ip}`,
       `    - Device: ${browser}`,
       "",
       "[!] Identity confirmed.",
-      "About time you arrived.",
-      "I've been expecting you..."
+      "Initializing website...",
     ];
 
     const terminal = document.getElementById("matrix-terminal");
