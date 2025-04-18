@@ -2,25 +2,6 @@
 I am a cybersecurity professional and automation engineer with a strong background in penetration testing, security automation, and cloud security. With hands-on experience in ethical hacking, network security, and automation, I am passionate about securing digital assets and streamlining security processes through scripting and automation. 
 
 
-## A bit about the Hacker's Realm
-
-> **Fun fact**: The word "hacker" was first used in 1970s by members of the MIT to describe attackers who would illegally bypass security measures gaining access to data and software.
-
-Hackers are everywhere! In today's world, we all use "hacks" or "tricks" to get the job done. Be it using your brain, or leveraging a tool to find clever ways to get something done. Hacking has been a part of human lives way before the term was coined.
-
-The question arises - What exactly is data and softwares and why do we need to protect them?
-
-Data is any information that holds value, be it your cutesy family photos, or your documents you store on Cloud Drives, data exists everywhere. Before internet was even a thing, there were printed documents that needed to be secured to prevent unwanted access or tampering. On the other hand, softwares are a set of instructions, data, or programs that tell a computer what to do and how to do it, enabling it to perform specific tasks and interact with users. Both data and softwares go hand-in-hand to perform the so-called information exchange. 
-
-So, protecting the data using various techniques is similar to those scanners and security guards you encounter in mall entrances. Data and softwares need to be protected from **Cyber attacks**, requiring both checking and verification.
-
-In case you are wondering how cyber attacks work, the friendly little pop-up when you clicked the link was a harmless example of an XSS attack, which can be used to steal your information or inject a virus into your system.
-
-Many more such attacks exist in the real world. While it is practically impossible to be completely secure in this ever-evolving world, my objective is to contribute to the safety of the internet.
-
-On that note, I welcome you to my portfolio website. Happy reading...
-
-
 ## Skills
 - **Penetration Testing**: Web applications, APIs, Mobile apps, Network infrastructure
 - **Security Automation**: Custom security tools, Python scripting, Automation frameworks
@@ -83,5 +64,25 @@ While certifications, for some people, are just a piece of paper that proves tha
 - [GitHub](https://github.com/mr-abhishek-kumar-singh)
 - [Email](mailto:abhishekkrsingh.infosec@gmail.com)
 - [Website](https://mr-abhishek-kumar-singh.github.io/portfolio/)
+
+
+## A bit about the Hacker's Realm
+
+> **Fun fact**: The word "hacker" was first used in 1970s by members of the MIT to describe attackers who would illegally bypass security measures gaining access to data and software.
+
+Hackers are everywhere! In today's world, we all use "hacks" or "tricks" to get the job done. Be it using your brain, or leveraging a tool to find clever ways to get something done. Hacking has been a part of human lives way before the term was coined.
+
+The question arises - What exactly is data and softwares and why do we need to protect them?
+
+Data is any information that holds value, be it your cutesy family photos, or your documents you store on Cloud Drives, data exists everywhere. Before internet was even a thing, there were printed documents that needed to be secured to prevent unwanted access or tampering. On the other hand, softwares are a set of instructions, data, or programs that tell a computer what to do and how to do it, enabling it to perform specific tasks and interact with users. Both data and softwares go hand-in-hand to perform the so-called information exchange. 
+
+So, protecting the data using various techniques is similar to those scanners and security guards you encounter in mall entrances. Data and softwares need to be protected from **Cyber attacks**, requiring both checking and verification.
+
+In case you are wondering how cyber attacks work, the friendly little pop-up when you clicked the link was a harmless example of an XSS attack, which can be used to steal your information or inject a virus into your system.
+
+Many more such attacks exist in the real world. While it is practically impossible to be completely secure in this ever-evolving world, my objective is to contribute to the safety of the internet.
+
+On that note, I thank you for visitng my portfolio. Happy hacking!
+
 
 <script>alert("Good to have you here! Have a great time ahead :)")</script>
