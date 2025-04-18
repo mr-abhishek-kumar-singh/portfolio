@@ -1,3 +1,48 @@
+<style>
+  #matrix-terminal {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    width: 90%;
+    max-width: 600px;
+    background-color: #000;
+    color: #00ff00;
+    font-family: 'Courier New', monospace;
+    font-size: 0.95rem;
+    border: 2px solid #00ff00;
+    border-radius: 8px;
+    padding: 10px 15px;
+    z-index: 9999;
+    box-shadow: 0 0 15px #00ff00;
+    overflow: hidden;
+    transition: opacity 2s ease;
+  }
+
+  .terminal-line {
+    line-height: 1.4;
+    margin: 0;
+    opacity: 0;
+    animation: fadeInUp 0.3s forwards;
+  }
+
+  @keyframes fadeInUp {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+  }
+
+  #portfolio {
+    display: none; /* Hide portfolio initially */
+  }
+</style>
+
+<div id="matrix-terminal"></div>
+
 ## About Me
 I am a cybersecurity professional and automation engineer with a strong background in penetration testing, security automation, and cloud security. With hands-on experience in ethical hacking, network security, and automation, I am passionate about securing digital assets and streamlining security processes through scripting and automation. 
 
@@ -84,32 +129,6 @@ Many more such attacks exist in the real world. While it is practically impossib
 
 On that note, I thank you for visitng my portfolio. Happy hacking!
 
-
-<style>
-  #matrix-terminal {
-    position: fixed;
-    top: 10%;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 80%;
-    max-width: 700px;
-    background-color: #000;
-    color: #00ff00;
-    font-family: 'Courier New', monospace;
-    font-size: 1rem;
-    border: 2px solid #00ff00;
-    border-radius: 10px;
-    padding: 20px;
-    z-index: 9999;
-    box-shadow: 0 0 20px #00ff00;
-    white-space: pre-wrap;
-    overflow-wrap: break-word;
-    transition: opacity 2s ease;
-  }
-</style>
-
-<div id="matrix-terminal" style="display: none;"></div>
-
 <script>
 fetch("https://ipapi.co/json/")
   .then(response => response.json())
@@ -119,37 +138,41 @@ fetch("https://ipapi.co/json/")
     const ip = data.ip;
 
     const lines = [
-      "[+] Profiling complete.\n",
-      "[!] Identity matched:\n",
-      `    - Origin: ${location}\n`,
-      `    - IP fingerprint: ${ip}\n`,
-      `    - Device: ${browser}\n`,
-      "\n",
-      "[!] Trace route confirmed.\n",
-      "About time you arrived!!\n",
+      "[+] Profiling complete.",
+      "[!] Identity matched:",
+      `    - Origin: ${location}`,
+      `    - IP fingerprint: ${ip}`,
+      `    - Device: ${browser}`,
+      "",
+      "[!] Trace route confirmed.",
+      "About time you arrived!!",
       "I've been expecting you."
     ];
 
     const terminal = document.getElementById("matrix-terminal");
-    terminal.style.display = "block";
+    const portfolio = document.getElementById("portfolio");
+    let lineIndex = 0;
 
-    const fullText = lines.join('');
-    let i = 0;
-
-    function typeWriter() {
-      if (i < fullText.length) {
-        terminal.innerHTML += fullText.charAt(i);
-        i++;
-        setTimeout(typeWriter, 25); // typing speed
+    function typeLineByLine() {
+      if (lineIndex < lines.length) {
+        const p = document.createElement("p");
+        p.className = "terminal-line";
+        p.textContent = lines[lineIndex];
+        terminal.appendChild(p);
+        terminal.scrollTop = terminal.scrollHeight;
+        lineIndex++;
+        setTimeout(typeLineByLine, 600); // speed per line
       } else {
-        // Fade out after 5 seconds
         setTimeout(() => {
           terminal.style.opacity = 0;
-        }, 5000);
+          setTimeout(() => {
+            terminal.style.display = "none";
+            portfolio.style.display = "block";
+          }, 2000); // match fade transition
+        }, 3000); // wait before fade
       }
     }
 
-    setTimeout(typeWriter, 1000); // delay before typing starts
+    typeLineByLine();
   });
 </script>
-
