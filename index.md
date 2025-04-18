@@ -126,8 +126,8 @@ fetch("https://ipapi.co/json/")
       `    - Device: ${browser}\n`,
       "\n",
       "[!] Trace route confirmed.\n",
-      "Welcome...\n",
-      "I've been expecting you."
+      "Welcome.\n",
+      "I've been expecting you..."
     ];
 
     const terminal = document.getElementById("matrix-terminal");
