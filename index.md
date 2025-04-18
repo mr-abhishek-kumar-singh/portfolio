@@ -139,8 +139,8 @@ fetch("https://ipapi.co/json/")
       `    - Device: ${browser}`,
       "",
       "[!] Identity confirmed.",
-      "About time you arrived!!",
-      "I've been expecting you."
+      "About time you arrived.",
+      "I've been expecting you..."
     ];
 
     const terminal = document.getElementById("matrix-terminal");
