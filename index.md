@@ -108,6 +108,7 @@ While certifications, for some people, are just a piece of paper that proves tha
 - Financial investment strategies and wealth management
 - Gaming and content creation
 - Book reading  
+- Music (Yes, I've been playing guitar lately)
 
 ---
 
