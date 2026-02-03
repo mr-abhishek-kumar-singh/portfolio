@@ -127,7 +127,7 @@ While certifications, for some people, are just a piece of paper that proves tha
 - [Website](https://mr-abhishek-kumar-singh.github.io/portfolio/)
 
 ---
-On that note, I thank you for visitng my portfolio. Happy hacking!
+##### On that note, I thank you for visitng my portfolio. Happy hacking!
 ---
 
 <script>
