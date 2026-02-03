@@ -57,22 +57,25 @@ I am a cybersecurity professional and automation engineer with a strong backgrou
 
 ## Accomplishments
 
-- Successfully performed penetration testing on various services at **SRM Delhi**, **Glida, Radius, and Ez-Swype**.
+- Successfully performed penetration testing on various services at **SRM Delhi**, **Glida**, **Radius**, and **Ez-Swype**.
 - Developed security assessment methodologies for organizations to enhance their security posture.
-- Currently building a **security assessment tool** for organizations to identify website vulnerabilities.
+- Currently building a **security assessment tool** to identify website vulnerabilities.
 - Completed multiple security certifications to solidify expertise in ethical hacking and automation.  
 
 ---
 
 ## Certifications
+
 While certifications, for some people, are just a piece of paper that proves that you can type some stuff into the computer and click some buttons, but they also play a crucial role in determining what and when to click. So here are some of my button clicks that taught me highly valuable information regarding how to hack various things:  
 
 - ### **Offensive Security**:
+  
   - CEHv12 & CEH Practical
   - eJPTv2 by INE Security
   - OSCP *(Soon...)*  
 
 - ### **Scripting & Application Security**:
+
   - Practical Ethical Hacking (PEH)
   - Mobile Application Penetration Tester (MAPT)
   - Practical Bug Bounty Hunter
@@ -82,15 +85,18 @@ While certifications, for some people, are just a piece of paper that proves tha
   - Programming 100  
 
 - ### **Networking and Cloud Security**:
+
   - Google Cybersecurity Certification
   - Google Cloud Certification - Cloud DevOps Engineer  
 
 - ### **Soft Skills for Job Market**
+
   - Soft Skills for Cyber Security Job Market
 
 ---
 
 ## Projects
+
 - [Recon-Sub](https://github.com/mr-abhishek-kumar-singh/recon-sub): Automated subdomain enumeration tool for reconnaissance.
 - [SSL Certificate Checker](https://github.com/mr-abhishek-kumar-singh/ssl-certificate-checker): A Python tool to check SSL certificate validity and expiration.
 - [Scapy Port Enum](https://github.com/mr-abhishek-kumar-singh/scapy-port-enum): A network enumeration tool using Scapy for scanning open ports.
@@ -102,6 +108,7 @@ While certifications, for some people, are just a piece of paper that proves tha
 ---
 
 ## Interests
+
 - Ethical hacking and red teaming methodologies
 - Security automation and AI-driven security solutions
 - Open-source contributions in cybersecurity and automation
@@ -113,29 +120,13 @@ While certifications, for some people, are just a piece of paper that proves tha
 ---
 
 ## Contact
+
 - [LinkedIn](https://www.linkedin.com/in/mr-abhishek-kumar-singh)
 - [GitHub](https://github.com/mr-abhishek-kumar-singh)
 - [Email](mailto:abhishekkrsingh.infosec@gmail.com)
 - [Website](https://mr-abhishek-kumar-singh.github.io/portfolio/)
 
 ---
-
-## A bit about the Hacker's Realm
-
-> **Fun fact**: The word "hacker" was first used in 1970s by members of the MIT to describe attackers who would illegally bypass security measures gaining access to data and software.
-  
-Hackers are everywhere! In today's world, we all use "hacks" or "tricks" to get the job done. Be it using your brain, or leveraging a tool to find clever ways to get something done. Hacking has been a part of human lives way before the term was coined.
-  
-The question arises - What exactly is data and softwares and why do we need to protect them?
-  
-Data is any information that holds value, be it your cutesy family photos, or your documents you store on Cloud Drives, data exists everywhere. Before internet was even a thing, there were printed documents that needed to be secured to prevent unwanted access or tampering. On the other hand, softwares are a set of instructions, data, or programs that tell a computer what to do and how to do it, enabling it to perform specific tasks and interact with users. Both data and softwares go hand-in-hand to perform the so-called information exchange. 
-  
-So, protecting the data using various techniques is similar to those scanners and security guards you encounter in mall entrances. Data and softwares need to be protected from **Cyber attacks**, requiring both checking and verification.
-  
-In case you are wondering how cyber attacks work, the screen when you clicked the link was a harmless example of an XSS attack, which can be used to steal your information or inject a virus into your system.
-  
-Many more such attacks exist in the real world. While it is practically impossible to be completely secure in this ever-evolving world, my objective is to contribute to the safety of the internet.
-  
 On that note, I thank you for visitng my portfolio. Happy hacking!
 ---
 
